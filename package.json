@@ -1,0 +1,11 @@
+{
+  "name": "imageloader",
+  "version": "1.0.0",
+  "description": "Image Loader",
+  "main": "index.js",
+  "scripts": {
+    "coffee": "coffee -o js/ -cw coffee/"
+  },
+  "author": "",
+  "license": "ISC"
+}
